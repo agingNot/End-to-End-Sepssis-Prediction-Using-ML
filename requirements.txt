@@ -3,6 +3,7 @@ numpy
 seaborn
 matplotlib
 imbalanced-learn
+pydantic
 fastapi
 -e .
 
